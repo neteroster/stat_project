@@ -1,0 +1,11 @@
+{
+  "name": "code_stat",
+  "version": "0.0.1",
+  "description": "This module contains some useful tools for dealing with the source code file.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NeterOster",
+  "license": "MIT"
+}
